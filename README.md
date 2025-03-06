@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761192oh314kx8p6sg77rwcz5s2jxbusg9o8kwm0zvdg&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
 <!--
 **reshmitha0424/reshmitha0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
