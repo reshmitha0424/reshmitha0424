@@ -29,7 +29,7 @@
 
 <hr>
 
-<h2>Skills</h2>
+<h2>Skills :</h2>
 
 <h3>Programming Languages</h2>
 <div>
