@@ -78,8 +78,10 @@
   </li>
 </ul>
 
+<br>
+<h2>My Stats :</h2>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reshmitha0424&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 
 
