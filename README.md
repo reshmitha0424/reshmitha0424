@@ -81,7 +81,9 @@
 <hr>
 <h2>My Stats :</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reshmitha0424&theme=dark&background=000000)](https://git.io/streak-stats)
-<h1>hi</h1>
+<img src="https://streak-stats.demolab.com?user=reshmitha0424&theme=dark&background=000000" alt="GitHub Streak">
+
+
+
 
 
