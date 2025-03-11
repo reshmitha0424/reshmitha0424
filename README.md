@@ -81,4 +81,7 @@
 <hr>
 <h2>My Stats :</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reshmitha0424&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=reshmitha0424&theme=dark&background=000000)](https://git.io/streak-stats)
+<h1>hi</h1>
+
+
